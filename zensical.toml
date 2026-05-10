@@ -84,6 +84,10 @@ icon = "fontawesome/brands/instagram"
 link = "https://www.instagram.com/steelridge6343/"
 name = "Steel Ridge on Instagram"
 [[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/SteelRidgeRobotics"
+name = "Steel Ridge on Github"
+[[project.extra.social]]
 icon = "fontawesome/brands/youtube"
 link = "https://www.youtube.com/@steelridge"
 name = "Steel Ridge on Youtube"
