@@ -54,18 +54,18 @@ text = "Roboto"
 code = "Roboto Mono"
 
 [[project.theme.palette]]
-scheme = "default"
-palette.primary = "blue"
-palette.accent = "blue"
-toggle.icon = "lucide/sun"
-toggle.name = "Switch to dark mode"
-
-[[project.theme.palette]]
 scheme = "slate"
 palette.primary = "blue"
 palette.accent = "blue"
 toggle.icon = "lucide/moon"
 toggle.name = "Switch to light mode"
+
+[[project.theme.palette]]
+scheme = "default"
+palette.primary = "blue"
+palette.accent = "blue"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to dark mode"
 
 [project.markdown_extensions.admonition]
 [project.markdown_extensions.attr_list]
