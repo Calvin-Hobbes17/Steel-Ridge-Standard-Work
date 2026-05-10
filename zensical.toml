@@ -1,0 +1,91 @@
+[project]
+
+extra_javascript = [
+    "https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js",
+    "javascripts/tablesort.js"
+]
+
+site_name = "Steel Ridge Standard Work Docs"
+
+site_description = "Steel Ridge's Standard Work Documentation"
+
+site_author = "Steel Ridge"
+
+# The site_url is the canonical URL for your site. When building online
+# documentation you should set this.
+# Read more: https://zensical.org/docs/setup/basics/#site_url
+#site_url = "https://www.example.com/"
+
+copyright = "&copy; 2026 Steel Ridge"
+
+[project.theme]
+
+language = "en"
+
+features = [
+    "announce.dismiss",
+
+    "content.action.edit",
+    "content.action.view",
+    "content.code.annotate",
+    "content.code.copy",
+    "content.code.select",
+    "content.footnote.tooltips",
+    "content.tabs.link",
+    "content.tooltips",
+
+    "header.autohide",
+
+    "navigation.indexes",
+    "navigation.instant",
+    "navigation.instant.prefetch",
+    "navigation.instant.progress",
+    "navigation.tabs",
+
+    "search.highlight",
+]
+
+favicon = "assets/logo.png"
+
+[project.theme.icon]
+icon = "lucide/book-open"
+
+text = "Roboto"
+code = "Roboto Mono"
+
+[[project.theme.palette]]
+scheme = "default"
+palette.primary = "blue"
+palette.accent = "blue"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to dark mode"
+
+[[project.theme.palette]]
+scheme = "slate"
+palette.primary = "blue"
+palette.accent = "blue"
+toggle.icon = "lucide/moon"
+toggle.name = "Switch to light mode"
+
+[project.markdown_extensions.admonition]
+[project.markdown_extensions.attr_list]
+[project.markdown_extensions.md_in_html]
+[project.markdown_extensions.pymdownx.blocks.caption]
+[project.markdown_extensions.pymdownx.details]
+[project.markdown_extensions.pymdownx.emoji]
+emoji_index = "zensical.extensions.emoji.twemoji"
+emoji_generator = "zensical.extensions.emoji.to_svg"
+options.custom_icons = ["overrides/.icons"]
+[project.markdown_extensions.pymdownx.superfences]
+
+[project.extra]
+generator = false
+
+[[project.extra.social]]
+icon = "fontawesome/brands/instagram"
+link = "https://www.instagram.com/steelridge6343/"
+name = "Steel Ridge on Instagram"
+[[project.extra.social]]
+icon = "fontawesome/brands/youtube"
+link = "https://www.youtube.com/@steelridge"
+name = "Steel Ridge on Youtube"
