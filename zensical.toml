@@ -42,6 +42,7 @@ features = [
     "search.highlight",
 ]
 
+logo = "assets/logo.png"
 favicon = "assets/logo.png"
 
 [project.theme.icon]
