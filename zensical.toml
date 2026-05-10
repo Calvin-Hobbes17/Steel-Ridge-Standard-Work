@@ -11,10 +11,7 @@ site_description = "Steel Ridge's Standard Work Documentation"
 
 site_author = "Steel Ridge"
 
-# The site_url is the canonical URL for your site. When building online
-# documentation you should set this.
-# Read more: https://zensical.org/docs/setup/basics/#site_url
-#site_url = "https://www.example.com/"
+site_url = "https://calvin-hobbes17.github.io/Steel-Ridge-Standard-Work/"
 
 copyright = "&copy; 2026 Steel Ridge"
 
