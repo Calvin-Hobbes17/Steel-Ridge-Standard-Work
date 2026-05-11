@@ -2,7 +2,7 @@
 icon: lucide/box
 ---
 
-# Design Standard Work Docs
+# Design Standard Work
 
 <div class="grid cards" markdown>
 
