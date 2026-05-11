@@ -28,4 +28,4 @@ We have several installed Plugins that you can use in Zensical.
 
 ## Editing the Site config (Theme, Navigation, Plugins, ETC.)
 
-Good luck, I guess, config stuff is in zensical.toml
+Good luck, I guess, config stuff is in `zensical.toml`; this is gonna sound like a broken record, but they have [great documentation](https://zensical.org/docs/setup)!
