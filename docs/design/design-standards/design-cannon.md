@@ -14,7 +14,7 @@ This is a list of parts we use and notes about them.
 | Gearboxes     | Sport Gearbox               | AM     | Insert with FRCDesignlib | TELL CALVIN TO CHECK THE INPUT                 |
 | Gearboxes     | Cycloidal Gearbox           | TTB    | Insert with FRCDesignlib | Mounts with #8-32 hardware                     |
 | Pulleys       | Aluminum HTD Timing Pulleys | WCP    | Insert with FRCDesignlib | 5mm pitch, 1/2" Hex Bore. 9mm and 15mm width   |
-| Pulleys       | 3D Printed Pulleys          | Custom | Insert tool              | IF YOU SEE THIS, TELL CALVIN TO MAKE THE CONFIGURABLE PULLEY!!! |
+| Pulleys       | 3D Printed Pulleys          | Custom | Insert tool              | Model is under `Configurables` in the onshape  |
 | Belts         | HTD Timing Belts            | WCP    | Belt and Chain Gen FS    |                                                |
 | Wheels        | Compliant Wheels            | AM     | Insert with FRCDesignlib | 1/2" Hex bore                                  |
 | Wheels        | Stealth and Sushi Wheels    | AM     | Insert with FRCDesignlib | 1/2" Hex bore                                  |
