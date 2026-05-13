@@ -26,14 +26,14 @@ This is a list of the prefered parts used by Steel Ridge and notes about them.
 
 ??? info "Bolts"
     
-     - #10-32 Screws
+     - \#10-32 Screws
 
-     - #1/4-20 Screws
+     - 1/4-20 Screws
     
     Bolts should be modeled by inserting the MCM Bolts with the FRCDesign Inserter.
 
 ??? info "Nuts"
 
-     - 10-32 Nuts
+     - \#10-32 Nuts
 
      - 1/4-20 Nuts
