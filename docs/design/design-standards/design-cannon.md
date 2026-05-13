@@ -30,10 +30,20 @@ This is a list of the prefered parts used by Steel Ridge and notes about them.
      
      - **1/4-20 Screws**
     
-    Bolts should be modeled by inserting the MCM Bolts with the FRCDesign Inserter.
+    Insert with FRCDesign Inserter using the MCM option.
 
 ??? info "Nuts"
 
      - **\#10-32 Nuts**
+
+    Standard and low-profile heights.
     
      - **1/4-20 Nuts**
+
+    Insert with FRCDesign Inserter.
+
+??? info "Rivets"
+
+     - **3/16" Rivets**
+
+    Insert with FRCDesign Inserter
