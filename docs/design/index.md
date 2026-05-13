@@ -29,6 +29,6 @@ icon: lucide/box
     ---
     Best practices for CAD that will make your life easier in the long run.
 
-    :lucide-arrow-right: [Improve your practices](cad-best-practices "CAD best practices")
+    :lucide-arrow-right: [Improve your practices](CAD-best-practices "CAD best practices")
 
 </div>
