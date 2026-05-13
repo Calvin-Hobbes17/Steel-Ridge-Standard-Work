@@ -4,7 +4,7 @@ icon: lucide/layout-list
 
 # Design Cannon
 
-This is a list of parts we use and notes about them.
+This is a list of the prefered parts used by Steel Ridge and notes about them.
 
 | Category      | Part(s)                     | Vendor | Model with:              | Notes                                          |
 | :------------ | :-------------------------- | :----- | :----------------------- | :--------------------------------------------- |
@@ -23,5 +23,7 @@ This is a list of parts we use and notes about them.
 | Tubing        | MAXTube                     | REV    | Tube Converter FS        | "Legacy" and "Light" style, 1" x 1" and 2"x 2" |
 
 ??? info "Bolts"
-  
-  #10-32 Screws are the fasteners that we use the most.
+    
+    #10-32 Screws are the fasteners that we use the most.
+    
+    Model them with FRCDesign Inserter.
