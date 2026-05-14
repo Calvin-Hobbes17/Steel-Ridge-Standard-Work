@@ -68,18 +68,6 @@ This is a list of the prefered parts used by Steel Ridge and notes about them.
     
     Model by Sketching and Extruding.
 
-??? info "Shaft"
-
-    - **1/2" Rounded Hex**
-
-    We use 1/2" Rounded Hex Stock from WCP. For retention, we either \#10-32 tap the ends and use WCP shaft end screws, or use shaft collars(also from WCP).
-
-    - **1/2" Churro**
-    
-    We use Churros from AM sometimes, although Rounded Hex is Prefered. Retention is the same as 1/2" Rounded Hex, but instead of \#10-32, we tap it 1/4-20.
-    
-    Model with Robot Shaft.
-
 ??? info "Standoffs"
 
     - **1/2" Rounded Hex**
@@ -103,3 +91,25 @@ This is a list of the prefered parts used by Steel Ridge and notes about them.
     We use 3D Printed Screw Spacers. They're similar to standoffs, except instead of screws threading into them, they just go through them.
     
     Model with Robot Spacer.
+
+## Power Transmission
+
+??? info "Shaft"
+
+    - **1/2" Rounded Hex**
+
+    We use 1/2" Rounded Hex Stock from WCP. For retention, we either \#10-32 tap the ends and use WCP shaft end screws, or use shaft collars(also from WCP).
+
+    - **1/2" Churro**
+    
+    We use Churros from AM sometimes, although Rounded Hex is Prefered. Retention is the same as 1/2" Rounded Hex, but instead of \#10-32, we tap it 1/4-20.
+    
+    Model with Robot Shaft.
+
+??? info "Bearings"
+
+    - 1/2" Rounded Hex
+    
+    For 1/2" Rounded Hex Shaft, we use bearings with a round bore and a 1.25" OD from WCP.
+
+    Insert with FRCDesign Inserter.
