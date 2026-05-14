@@ -26,24 +26,52 @@ This is a list of the prefered parts used by Steel Ridge and notes about them.
 
 ??? info "Bolts"
     
-     - **\#10-32 Screws**
-     
-     - **1/4-20 Screws**
+    - **\#10-32 Screws**
+
+    - **1/4-20 Screws**
     
     Insert with FRCDesign Inserter using the MCM option.
 
 ??? info "Nuts"
 
-     - **\#10-32 Nuts**
+    - **\#10-32 Nuts**
 
     Standard and low-profile heights.
     
-     - **1/4-20 Nuts**
+    - **1/4-20 Nuts**
 
     Insert with FRCDesign Inserter.
 
 ??? info "Rivets"
 
-     - **3/16" Rivets**
+    - **3/16" Rivets**
 
-    Insert with FRCDesign Inserter
+    We use 3/16" Rivets from WCP.
+    Insert with FRCDesign Inserter.
+
+## Structure
+
+??? info "Tubing"
+
+    - **MAXTube**
+
+    We use 1x1 (Legacy) and 2x1 (Legacy and Light) MAXTube from REV.
+    Model with Tube Converter.
+
+??? info "Plate"
+    
+    - **Aluminum**
+    
+    We use 6061 Aluminum at 1/8", 3/16", and 1/4" thicknesses.
+    Model by Sketching and Extruding.
+
+??? info "Shaft"
+
+    - **1/2" Rounded Hex**
+
+    We use 1/2" Rounded Hex Stock from WCP. For retention, we either tap the ends and use WCP shaft end screws or use shaft collars(also from WCP).
+
+    - **1/2" Churro""
+    We use Churros from AM sometimes, although Rounded Hex is Prefered.
+    
+    Model with Robot Shaft.
