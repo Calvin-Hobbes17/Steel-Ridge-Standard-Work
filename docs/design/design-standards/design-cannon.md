@@ -24,7 +24,7 @@ This is a list of the prefered parts used by Steel Ridge and notes about them.
 
 ## Fasteners
 
-??? info "Bolts:materialdesign-bolt"
+??? info "Bolts:materialdesign-bolt:"
     
     - **\#10-32 Screws**
 
