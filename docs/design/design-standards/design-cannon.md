@@ -47,6 +47,7 @@ This is a list of the prefered parts used by Steel Ridge and notes about them.
     - **3/16" Rivets**
 
     We use 3/16" Rivets from WCP.
+    
     Insert with FRCDesign Inserter.
 
 ## Structure
@@ -56,6 +57,7 @@ This is a list of the prefered parts used by Steel Ridge and notes about them.
     - **MAXTube**
 
     We use 1x1 (Legacy) and 2x1 (Legacy and Light) MAXTube from REV.
+    
     Model with Tube Converter.
 
 ??? info "Plate"
@@ -63,15 +65,41 @@ This is a list of the prefered parts used by Steel Ridge and notes about them.
     - **Aluminum**
     
     We use 6061 Aluminum at 1/8", 3/16", and 1/4" thicknesses.
+    
     Model by Sketching and Extruding.
 
 ??? info "Shaft"
 
     - **1/2" Rounded Hex**
 
-    We use 1/2" Rounded Hex Stock from WCP. For retention, we either tap the ends and use WCP shaft end screws or use shaft collars(also from WCP).
+    We use 1/2" Rounded Hex Stock from WCP. For retention, we either \#10-32 tap the ends and use WCP shaft end screws, or use shaft collars(also from WCP).
 
-    - **1/2" Churro""
-    We use Churros from AM sometimes, although Rounded Hex is Prefered.
+    - **1/2" Churro**
+    
+    We use Churros from AM sometimes, although Rounded Hex is Prefered. Retention is the same as 1/2" Rounded Hex, but instead of \#10-32, we tap it 1/4-20.
     
     Model with Robot Shaft.
+
+??? info "Standoffs"
+
+    - **1/2" Rounded Hex**
+    
+    \#10-32 tapped.
+    
+    - **1/2" Churro**
+    
+    1/4-20 tapped.
+    
+    Model with Robot Shaft.
+
+??? info "Spacers"
+
+    - **Shaft Spacers**
+    
+    We use 3D Printed Shaft Spacers
+
+    - **Screw Spacers**
+
+    We use 3D Printed Screw Spacers. They're similar to standoffs, except instead of screws threading into them, they just go through them.
+    
+    Model with Robot Spacer
