@@ -96,10 +96,10 @@ This is a list of the prefered parts used by Steel Ridge and notes about them.
 
     - **Shaft Spacers**
     
-    We use 3D Printed Shaft Spacers
+    We use 3D Printed Shaft Spacers.
 
     - **Screw Spacers**
 
     We use 3D Printed Screw Spacers. They're similar to standoffs, except instead of screws threading into them, they just go through them.
     
-    Model with Robot Spacer
+    Model with Robot Spacer.
