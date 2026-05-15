@@ -108,8 +108,60 @@ This is a list of the prefered parts used by Steel Ridge and notes about them.
 
 ??? info "Bearings"
 
-    - 1/2" Rounded Hex
+    - **1/2" Rounded Hex**
     
-    For 1/2" Rounded Hex Shaft, we use bearings with a round bore and a 1.25" OD from WCP.
+    For 1/2" Rounded Hex Shaft, we use bearings with a round bore and a 1.125" OD from WCP.
+
+    - **1/2" Hex**
+
+    For 1/2" Hex Shaft we use bearings with a 1/2" Hex bore and a 1.125" OD from WCP.
 
     Insert with FRCDesign Inserter.
+
+??? info "Gears"
+
+    - **20DP Gears**
+
+    We use both aluminum and steel 20DP, 1/2" Hex Bore gears from WCP.
+
+    Insert with FRCDesign Inserter.
+    
+    - **3D Printed Gears**
+
+    We can use custom 3D Printed gears.
+
+    Model with Spur Gear.
+
+??? info "Belts/Pulleys"
+
+    - **5mm HTD Pulleys**
+
+    We use 5mm HTD aluminum Pulleys with a 1/2" Hex Bore from WCP, with both 9mm and 18mm widths.
+
+    Insert with FRCDesign Inserter.
+
+    - **3D Printed Pulleys**
+
+    We use custom 3D Printed Pulleys.
+    
+    Insert from Configurables Folder.
+
+    - **5mm HTD Belts**
+
+    We use 5mm HTD Belts in intervals of 5 teeth, starting at 30, in both 9mm and 15mm Widths.
+
+    Model with Belt and Chain Gen.
+
+??? info "Chain/Sprockets"
+
+    - **\#25 Sprockets**
+
+    We use \#25 Sprockets from WCP with a 1/2" Hex Bore.
+
+    Insert with FRCDesign Inserter.
+
+    - **\#25 Chain**
+
+    We use \#25 Chain.
+
+    Model with Belt and Chain Gen.
