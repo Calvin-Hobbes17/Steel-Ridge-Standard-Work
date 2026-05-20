@@ -118,6 +118,26 @@ This is a list of the prefered parts used by Steel Ridge and notes about them.
 
     Insert with FRCDesign Inserter.
 
+??? info "Gearboxes"
+
+    - **MAXPlanetary Gearbox**
+
+    We use MAXPlanetary Gearboxes from REV for fairly compact, easialy adaptable gear ratios with Kraken input.
+
+    - **VersaPlanetary Gearbox**
+
+    We use VersaPlanetary Gearboxes from VEX for fairly compact, easialy adaptable gear ratios with Falcon input. Mounts with /#8-32 Hardware.
+
+    - **Sport Gearbox**
+
+    We use Sport Gearboxes from AM for easy reductions with a Falcon input. Can use ratchet option.
+
+    - **Cycloidal Gearbox**
+
+    We use Cycloidal gearboxes from TTB for high-torque applications, like pivots. Kraken Input and mounts with /#8-32 Hardware.
+
+    Insert with FRCDesign Inserter.
+
 ??? info "Gears"
 
     - **20DP Gears**
