@@ -46,7 +46,7 @@ favicon = "assets/logo.png"
 
 [project.theme.icon]
 icon = "lucide/book-open"
-repo = "fontawesome/brands/git-alt"
+repo = "fontawesome/brands/github"
 
 text = "Rubik"
 code = "Roboto Mono"
