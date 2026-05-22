@@ -48,8 +48,8 @@ favicon = "assets/logo.png"
 [project.theme.icon]
 icon = "lucide/book-open"
 
-text = "Google Sans"
-code = "Google Sans Code"
+text = "Rubik"
+code = "Roboto Mono"
 
 [[project.theme.palette]]
 scheme = "slate"
