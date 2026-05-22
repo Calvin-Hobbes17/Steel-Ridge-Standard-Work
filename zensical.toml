@@ -6,14 +6,13 @@ extra_javascript = [
 ]
 
 site_name = "Steel Ridge Standard Work"
-
 site_description = "Steel Ridge's Standard Work"
-
 site_author = "Steel Ridge"
-
 site_url = "https://calvin-hobbes17.github.io/Steel-Ridge-Standard-Work/"
 
 copyright = "&copy; 2026 Steel Ridge"
+
+repo_url = "https://github.com/Calvin-Hobbes17/steel-Ridge-Standard-Work"
 
 [project.theme]
 
@@ -47,6 +46,7 @@ favicon = "assets/logo.png"
 
 [project.theme.icon]
 icon = "lucide/book-open"
+repo = "fontawesome/brands/git-alt"
 
 text = "Rubik"
 code = "Roboto Mono"
