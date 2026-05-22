@@ -1,0 +1,14 @@
+---
+icon: lucide/code
+---
+
+# Editing Pages
+
+This is a comprehensive walkthrough on editing pages. It's meant to teach the easiest way to edit pages.
+You must have a github account connected to the team github.
+If you need help with this, follow [this guide](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github).
+To get your account added to the team github, talk to a programming team member.
+
+## 1. Forking the Repository
+
+The first step is to fork the repository.
