@@ -22,13 +22,13 @@ icon: lucide/box
     ---
     Standards we use in all of our designs that help keep it buildable and coherent.
 
-    :lucide-arrow-right: [Learn the standards](design-standards "Design standards")
+    :lucide-arrow-right: [Learn the standards](Design-Standards "Design standards")
 
 -   :lucide-shapes:{ .lg .middle } **CAD best practices**
 
     ---
     Best practices for CAD that will make your life easier in the long run.
 
-    :lucide-arrow-right: [Improve your practices](CAD-best-practices "CAD best practices")
+    :lucide-arrow-right: [Improve your practices](CAD-Best-Practices "CAD best practices")
 
 </div>

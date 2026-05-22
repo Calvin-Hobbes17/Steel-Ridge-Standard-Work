@@ -20,7 +20,7 @@ icon: lucide/book-open
     ---
     super fun the best subteam
 
-    :lucide-arrow-right: [Have fun designing!](design)
+    :lucide-arrow-right: [Have fun designing!](Design)
 
 </div>
 
@@ -31,4 +31,4 @@ icon: lucide/book-open
     ---
     Contributing keeps this knowledgebase up to date and is a huge help to the team. It's not crazy hard to do, either! We have a whole guide to teach you!
     
-    :lucide-arrow-right: [Help Contribute](how-to-contribute)
+    :lucide-arrow-right: [Help Contribute](How-to-contribute)
