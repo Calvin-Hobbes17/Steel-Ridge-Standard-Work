@@ -18,11 +18,13 @@ Name the new Repository `Steel-Ridge-Standard-Work`. This should create a new, p
 
 To edit a page, navigate to the markdown (`.md`) file within your repository, and click the edit button in the top right.
 This will bring you into github's editor. From there, you can edit the Markdown file.
-Once you're Finished, click "Commit changes" in the top right. This will add these changes to your fork of the repository.
+Once you're finished, click "Commit changes" in the top right. This will add these changes to your fork of the repository.
 
 ## 3. Preview Site
 
-To preview the site, go to the "Settings" tab on your fork, and enable github pages. It doesn't really matter what URL you host it on.
+To preview the site, go to the "Settings" tab on your fork, and enable github pages. It doesn't really matter what URL you host it at.
 It should update every time you make a commit. Preview your changes to make sure that they are good before opening a pull request.
 
 ## 4. Pull Requests and Syncs
+
+Tell calvin to lock in on this one.
