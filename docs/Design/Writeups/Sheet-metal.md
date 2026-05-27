@@ -1,5 +1,5 @@
 ---
-icon: lucide/spline
+icon: lucide/square-round-corner
 ---
 
 # Sheet Metal
