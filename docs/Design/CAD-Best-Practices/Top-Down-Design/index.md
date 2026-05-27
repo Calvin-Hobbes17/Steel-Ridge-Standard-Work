@@ -16,7 +16,7 @@ Top-Down Design uses several documents, consisting of:
 !!! quote
 
     "In general, an FRC robot is too complicated and has too many parts to be created entirely within a single document. Doing so is possible, but will result in bad loading times, and likely poor organization."  
-    *\- [FRCDesign](https://frcdesign.org/best-practices/document-setup/)*
+    **\- [FRCDesign](https://frcdesign.org/best-practices/document-setup/)**
 
 ![Top-Down Design](../../../assets/top-down-design.png)
 /// caption
