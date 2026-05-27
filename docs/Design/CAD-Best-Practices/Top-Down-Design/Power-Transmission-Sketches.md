@@ -9,6 +9,15 @@ Power Transmission sketches are how we define dimensions pertaining to the movin
 
     Power Transmissions should be a part of a subsystem's master sketch *if* it directly effects position of major parts of the robot, like rollers. Otherwise, Power Transmissions should have their own sketch in the subsystem's part studio.
 
+## Gears
+
+Sketch Gears as tangent construction circles.
+Dimension them as the number of teeth it has, divided by twenty.
+
+!!! tip "Showing Design Intent"
+
+    It's best to dimension a belt with the number of teeth, divided by 20, because it helps communicate design intent. Its a lot easier to tell what size gear it is if it's dimensioned as `62/20`, as opposed to `3.1`.
+
 ## Pulleys
 
 To sketch a pulley, simply create a center point construction circle where you want a pulley to be.
@@ -30,11 +39,12 @@ For example, `#BeltCTC_5mm(70,24,18)` would result in the center-to-center dista
 
     Make sure to use commercially available teeth numbers or ones we have on hand, commonly multiples of 5.
 
-## Sketching Gears
+!!! "Chains and Sprockets"
 
-Sketch Gears as tangent construction circles.
-Dimension them as the number of teeth it has, divided by twenty.
+    To sketch Chain and sprockets, use the same method as belts and pulleys, except use `SprocketPD_25` and `ChainCTC_25` instead.
 
-!!! tip
+??? info "See also"
 
-    It's best to dimension a belt with the number of teeth, divided by 20, because it helps communicate design intent. Its a lot easier to tell what size gear it is if it's dimensioned as `62/20`, as opposed to `3.1`.
+    [Gear Basics | FRCDesign.org](https://frcdesign.org/learning-course/stage1/1b/gears)  
+    [Belt and Pulley Basics | FRCDesign.org](https://frcdesign.org/learning-course/stage1/1b/belts/)
+    [Chain and Sprocket Basics | FRCDesign.org](https://frcdesign.org/learning-course/stage1/1b/chain/)
