@@ -6,6 +6,17 @@ icon: lucide/layers
 
 In our robot CADs, we use a system called top-down design, which helps us keep it organized, parametric, and lag-free.
 
+## Document Setup
+
+Top-Down Design uses several documents, consisting of:
+- Master Sketches (Contains primary geometry)
+- Mechanisms (Each mechanism gets its own document)
+- Full Assembly (contains the full assembly of all the mechanisms)
+
+!!! quote
+    
+    In general, an FRC robot is too complicated and has too many parts to be created entirely within a single document. Doing so is possible, but will result in bad loading times, and likely poor organization." - [FRCDesign.org](https://frcdesign.org/best-practices/document-setup/)
+
 ![Top-Down Design](../../../assets/top-down-design.png)
 /// caption
 Credit: [FRCDesign.org](https://www.frcdesign.org/best-practices/document-setup/)
