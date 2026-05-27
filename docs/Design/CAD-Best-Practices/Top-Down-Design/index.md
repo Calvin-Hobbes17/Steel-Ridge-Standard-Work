@@ -9,9 +9,9 @@ In our robot CADs, we use a system called top-down design, which helps us keep i
 ## Document Setup
 
 Top-Down Design uses several documents, consisting of:  
- - Master Sketches (Contains primary geometry)  
- - Mechanisms (Each mechanism gets its own document)  
- - Full Assembly (contains the full assembly of all the mechanisms)  
+- Master Sketches (Contains primary geometry)  
+- Mechanisms (Each mechanism gets its own document)  
+- Full Assembly (contains the full assembly of all the mechanisms)  
 
 !!! quote "Why do we do this?"
 
