@@ -18,13 +18,14 @@ We have several installed Plugins that you can use in Zensical.
 
 #### Markdown Extensions
 
- - [Admonition](https://zensical.org/docs/setup/extensions/python-markdown/#admonition)
- - [Attribute Lists](https://zensical.org/docs/setup/extensions/python-markdown/#attribute-lists)
- - [Caption](https://zensical.org/docs/setup/extensions/python-markdown-extensions/#caption)
- - [Details](https://zensical.org/docs/setup/extensions/python-markdown-extensions/#details)
- - [Emoji](https://zensical.org/docs/setup/extensions/python-markdown-extensions/#emoji)
- - [Markdown in HTML](https://zensical.org/docs/setup/extensions/python-markdown/#markdown-in-html)
- - [SuperFences](https://zensical.org/docs/setup/extensions/python-markdown-extensions/#superfences)
+- [GLightbox](https://zensical.org/docs/setup/extensions/glightbox/)
+- [Admonition](https://zensical.org/docs/setup/extensions/python-markdown/#admonition)
+- [Attribute Lists](https://zensical.org/docs/setup/extensions/python-markdown/#attribute-lists)
+- [Caption](https://zensical.org/docs/setup/extensions/python-markdown-extensions/#caption)
+- [Details](https://zensical.org/docs/setup/extensions/python-markdown-extensions/#details)
+- [Emoji](https://zensical.org/docs/setup/extensions/python-markdown-extensions/#emoji)
+- [Markdown in HTML](https://zensical.org/docs/setup/extensions/python-markdown/#markdown-in-html)
+- [SuperFences](https://zensical.org/docs/setup/extensions/python-markdown-extensions/#superfences)
 
 ## Editing the Site config (Theme, Navigation, Plugins, ETC.)
 
