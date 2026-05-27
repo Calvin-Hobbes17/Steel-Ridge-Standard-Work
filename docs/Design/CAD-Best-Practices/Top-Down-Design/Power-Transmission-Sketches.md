@@ -39,7 +39,7 @@ For example, `#BeltCTC_5mm(70,24,18)` would result in the center-to-center dista
 
     Make sure to use commercially available teeth numbers or ones we have on hand, commonly multiples of 5.
 
-!!! "Chains and Sprockets"
+!!! tip "Chains and Sprockets"
 
     To sketch Chain and sprockets, use the same method as belts and pulleys, except use `SprocketPD_25` and `ChainCTC_25` instead.
 
