@@ -46,5 +46,5 @@ For example, `#BeltCTC_5mm(70,24,18)` would result in the center-to-center dista
 ??? info "See also"
 
     [Gear Basics | FRCDesign.org](https://frcdesign.org/learning-course/stage1/1b/gears)  
-    [Belt and Pulley Basics | FRCDesign.org](https://frcdesign.org/learning-course/stage1/1b/belts/)
+    [Belt and Pulley Basics | FRCDesign.org](https://frcdesign.org/learning-course/stage1/1b/belts/)  
     [Chain and Sprocket Basics | FRCDesign.org](https://frcdesign.org/learning-course/stage1/1b/chain/)
