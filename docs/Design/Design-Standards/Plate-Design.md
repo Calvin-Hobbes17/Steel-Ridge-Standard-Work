@@ -6,6 +6,10 @@ icon: lucide/drafting-compass
 
 Plates are one of the most important structural elements on a robot. Because of this, we have standards specifications to design them with.
 
+## Outer Contour
+
+- Plates' outer contours should be continous (Tangent arcs)
+
 ## Lightening
 
 Pocketed and Lightened Parts not only are lighter, but they also look much nicer than aluminum sheet.
