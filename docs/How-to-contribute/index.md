@@ -25,6 +25,7 @@ We have several installed Plugins that you can use in Zensical.
 - [Details](https://zensical.org/docs/setup/extensions/python-markdown-extensions/#details)
 - [Emoji](https://zensical.org/docs/setup/extensions/python-markdown-extensions/#emoji)
 - [Markdown in HTML](https://zensical.org/docs/setup/extensions/python-markdown/#markdown-in-html)
+- [Snippets](https://zensical.org/docs/setup/extensions/python-markdown-extensions/#snippets)
 - [SuperFences](https://zensical.org/docs/setup/extensions/python-markdown-extensions/#superfences)
 
 ## Editing the Site config (Theme, Navigation, Plugins, ETC.)
