@@ -74,7 +74,6 @@ emoji_index = "zensical.extensions.emoji.twemoji"
 emoji_generator = "zensical.extensions.emoji.to_svg"
 options.custom_icons = ["overrides/.icons"]
 [project.markdown_extensions.pymdownx.snippets]
-auto_append = ["includes/abbreviations.md"]
 [project.markdown_extensions.pymdownx.superfences]
 
 [project.extra]
