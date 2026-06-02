@@ -18,9 +18,7 @@ icon: lucide/file-text
     
     A Shooter Designed to shoot 2026 fuel.
     
-    [Read the Writeup]()
-
-    :lucide-arrow-right:
+    [:lucide-arrow-right: Read the Writeup]()
 
 </div>
 
